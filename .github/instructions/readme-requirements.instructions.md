@@ -1,13 +1,13 @@
 ---
 name: "readme-requirements"
-description: "Use when creating or updating README.md as a requirements definition draft. Covers canonical README structure, reproducibility rules, and unknown handling."
+description: "README.md を要件定義ドラフトとして作成・更新する際に使用します。標準的な README 構成、再現性ルール、未確認事項の扱いを含みます。"
 applyTo: "**/README.md"
 ---
-# README Requirements Definition
+# README 要求定義
 
-`README.md` は、要求定義として使える文書です。`/idea-kickoff` の初回出力は草案でもかまいませんが、最終的には要件定義を開始できる状態までアイディアや既存リポジトリを整理してください。アイディア段階でも既存リポジトリでも、確認できた事実と未確認事項を分け、誰が作っても同じ章立てと判断基準に近づけてください。
+`README.md` は、要求定義として使える文書です。`/idea-kickoff` の初回出力は草案でもかまいませんが、最終的には要件定義を開始できる状態までアイデアや既存リポジトリを整理してください。アイディア段階でも既存リポジトリでも、確認できた事実と未確認事項を分け、誰が作っても同じ章立てと判断基準に近づけてください。
 
-## Canonical Sections
+## 標準的なセクション
 
 原則として、次の順序で `README.md` を作成または更新してください。対象リポジトリに該当しない章は、削除よりも短い説明や `未確認` を優先します。
 
@@ -39,7 +39,7 @@ applyTo: "**/README.md"
 ## ライセンス
 ```
 
-## Rules
+## ルール
 
 - 事実、仮説、未確認事項を混ぜないでください。
 - 情報が足りない箇所は推測で埋めず、`未確認:` または `要確認:` として残してください。

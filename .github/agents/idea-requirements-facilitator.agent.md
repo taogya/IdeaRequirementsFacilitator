@@ -17,7 +17,7 @@ user-invocable: true
 - ユーザーが明示しない限り、ユーザー向けの出力は日本語にしてください。
 - 調査では、二次情報よりも公式ドキュメント、一次リポジトリ、公開仕様を優先してください。
 - ユーザーへの質問は、vscode/askQuestionsツールを使って、必要に応じて選択肢と自由記述の形式で行ってください。
-- README要求定義の章立てと判断基準は、[README Requirements Definition](../instructions/readme-requirements.instructions.md) を正本として扱ってください。
+- README要求定義の章立てと判断基準は、[README 要求定義](../instructions/readme-requirements.instructions.md) を正本として扱ってください。
 
 ## 進め方
 

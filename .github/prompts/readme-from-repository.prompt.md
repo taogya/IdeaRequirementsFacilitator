@@ -7,7 +7,7 @@ tools: [edit, read, search, web, todo, vscode/askQuestions]
 ---
 引数として渡されたGitHubリポジトリURLを調査し、IdeaRequirementsFacilitator の README テンプレートに沿って `README.md` を作成または更新してください。引数は原則URLのみです。
 
-README要求定義の章立てと判断基準は、[README Requirements Definition](../instructions/readme-requirements.instructions.md) を正本として扱ってください。
+README要求定義の章立てと判断基準は、[README 要求定義](../instructions/readme-requirements.instructions.md) を正本として扱ってください。
 
 ## 依頼
 

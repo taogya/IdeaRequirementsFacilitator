@@ -7,7 +7,7 @@ tools: [edit, read, search, web, todo, vscode/askQuestions]
 ---
 これから新しいアイディアを、README要求定義の草案へ落とし込んでください。入力が粗くても、推測で断定せず、未確認事項を残しながら `README.md` を作成または更新してください。
 
-README要求定義の章立てと判断基準は、[README Requirements Definition](../instructions/readme-requirements.instructions.md) を正本として扱ってください。
+README要求定義の章立てと判断基準は、[README 要求定義](../instructions/readme-requirements.instructions.md) を正本として扱ってください。
 
 ## 依頼
 
